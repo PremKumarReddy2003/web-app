@@ -1,3 +1,3 @@
 function prem(){
-    console.log("i changed from main")
+    console.log("i changed from mainn")
 }
